@@ -23,4 +23,4 @@ To use the Digital Clock, simply open the index.html file in a web browser. The 
 If you'd like to contribute to the project, feel free to fork the repository, make changes, and submit a pull request. Contributions are always welcome!
 Thank you for checking out the Digital Clock project! If you have any questions or feedback, feel free to reach out.
 
-**Happy coding**! 🕒✨
+**Happy coding**! 🕒
